@@ -194,10 +194,8 @@ Possible improvements include:
 
 ## 👨‍💻 Author
 
-**Your Name**
+**RUBAN K**
 
 If you found this project useful, consider giving the repository a ⭐.
 
-## 📜 License
 
-This project is intended for educational and research purposes.
